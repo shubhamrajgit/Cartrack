@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "name": "Test1",
+        "username": "testA",
+        "email": "test@gmail.com",
+        "address": {
+            "street": "test user",
+            "suite": "test suite",
+            "city": "test city",
+            "zipcode": "23786",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+        },
+        "phone": "1-234-567-891 x2345",
+        "website": "test.org",
+        "company": {
+            "name": "test-company",
+            "catchPhrase": "test catchphrase",
+            "bs": "test bs"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Test2",
+        "username": "testB",
+        "email": "test22@gmail.com",
+        "address": {
+            "street": "test user 2",
+            "suite": "test suite 2",
+            "city": "test city 2",
+            "zipcode": "237869",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+        },
+        "phone": "1-234-567-891 x2345",
+        "website": "test22.org",
+        "company": {
+            "name": "test-company 2",
+            "catchPhrase": "test catchphrase 2",
+            "bs": "test bs 2"
+        }
+    }
+]
