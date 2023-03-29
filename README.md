@@ -10,7 +10,7 @@ This application provides the user login for registered users in sqlite database
 To install this application you need to follow below steps.
 
 1. Clone or download the repository.
-2. For sefty run 'pod install' command to manage dependency.
+2. Run 'pod install' command to install dependency.
 3. After install, application will ask for login credentials. Enter One sample credential is in below :
 
 
