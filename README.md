@@ -1,4 +1,4 @@
-# Cartrack Assignment
+# Cartrack
 
 This application provides the user login for registered users in sqlite database. On successful login it provides users list and their details along with their locations on map. 
 
